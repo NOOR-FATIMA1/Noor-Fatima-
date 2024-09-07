@@ -1,2 +1,2 @@
-# Noor-Fatima-
+NoorFatima
 This is my first repository
